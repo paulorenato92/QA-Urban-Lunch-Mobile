@@ -25,7 +25,7 @@ Projeto prático de testes funcionais de uma aplicação mobile de pedidos de co
 
 A documentação dos testes está disponível na planilha abaixo.
 
-📄 [Aceder à documentação do projeto](https://docs.google.com/spreadsheets/d/1Eap_OINF2dWJTxn59B5AN7JLqttNTwLvQ1VuGBdHtM/edit?usp=sharing)
+[📄 Aceder ao checklist de testes mobile](./Urban-Lunch-Checklist-Mobile.xlsx)
 
 ## Objetivo
 
